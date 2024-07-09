@@ -1,3 +1,4 @@
 /virtual_env_streamlit
 /.streamlit
 /.streamlit/secrets.toml
+__pycache__/

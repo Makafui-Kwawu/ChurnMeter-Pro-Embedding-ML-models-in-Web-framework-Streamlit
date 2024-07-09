@@ -30,9 +30,7 @@ ChurnMeter Pro uses a state-of-the-art Logistic Regression and Gradient Boosting
 ## Demo 🚀
 
 - ### Pictures 📸
-  | ![app header](https://github.com/snyamson/P4-ChurnPredict-Pro/assets/58486437/75cac65c-9184-4660-8da6-95d4c81f7cc2) | ![more cus info](https://github.com/snyamson/P4-ChurnPredict-Pro/assets/58486437/26daa7ff-91dc-4a7a-af61-8ca376e2bb00) |
-  | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  |![submit and pred](https://github.com/snyamson/P4-ChurnPredict-Pro/assets/58486437/275209cd-2bb4-4201-82bd-115df186a81d)        | ![pred](https://github.com/snyamson/P4-ChurnPredict-Pro/assets/58486437/b9193492-d28a-47df-9979-6f6d9ca8975f)                 |
+
 
 - ### Article Link 🌐
   [Read Article](https://medium.com/@sm.kwawu/churnmeter-pro-a-customer-churn-prediction-app-with-streamlit-ec0fa05471dc)
