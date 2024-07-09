@@ -32,7 +32,6 @@ ChurnMeter Pro uses a state-of-the-art Logistic Regression and Gradient Boosting
 - ### Pictures 📸
   | ![Homepage](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/041a5bf0-6e21-41d6-b84a-f5634d83f825)| ![Dashboard page 2](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/2da9a033-75ff-4115-9a43-f272dac7d2ad)
 
-  | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   |  ![Dashboard page 2](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/66603fa7-1482-4813-9541-0e3d1add67d7)|  ![History page](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/9a574fe1-385f-4860-a190-f273a2277a07)
                 |
 
